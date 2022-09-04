@@ -287,7 +287,7 @@ openjdk              8-jdk-alpine   a3562aa0b991   3 years ago         105MB
 
 -> Now we can test it,  http://localhost:8080/test-docker
 
-naveen_dec29@cloudshell:~ (clean-tower-358110)$ gcloud container clusters get-credentials naveen-cluster-1 --zone us-central1-c --project clean-tower-358110
+-> naveen_dec29@cloudshell:~ (clean-tower-358110)$ gcloud container clusters get-credentials naveen-cluster-1 --zone us-central1-c --project clean-tower-358110
 Fetching cluster endpoint and auth data.
 kubeconfig entry generated for naveen-cluster-1.
 

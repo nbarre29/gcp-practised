@@ -19,7 +19,7 @@ http://localhost:8080/h2-console/
 Got the error: 
 Sorry, remote connections ('webAllowOthers') are disabled on this server.
 
-Added the property in application.properties to fix the above error.
+Added below property in application.properties to fix the above error.
 spring.h2.console.settings.web-allow-others=true
 
 References:
