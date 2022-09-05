@@ -1,6 +1,7 @@
 https://www.youtube.com/watch?v=SzbeDqBSRkc
 
 https://docs.docker.com/desktop/install/windows-install/
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#creating-a-deployment
 https://github.com/docker/for-win/issues/12576
 https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
 https://i.stack.imgur.com/Nhxgb.png
